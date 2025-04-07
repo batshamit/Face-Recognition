@@ -66,7 +66,7 @@ pip install pillow
 If there is any installation issue in the above libraries  then first select and 
 install required packages from  Microsoft Build Tools in VS Studio.
 
-Also manually download Cmake from the official website  and install it. 
+Also manually download Cmake from the official website  and install it. (cmake-4.0.0-rc5-windows-x86_64.msi)
 
 Also Install Git to downlad required repositery
 .......................................................................................................................
