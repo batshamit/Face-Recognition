@@ -60,6 +60,8 @@ pip install face_recognition
 pip install numpy
 pip install imutils
 pip install pillow
+
+
 .................................................................................................................
 If there is any installation issue in the above libraries  then first select and 
 install required packages from  Microsoft Build Tools in VS Studio.
@@ -68,6 +70,8 @@ Also manually download Cmake from the official website  and install it.
 
 Also Install Git to downlad required repositery
 .......................................................................................................................
+
+
 
 🔹 Solution: Install Required Dependencies
 Step 1: Install Microsoft C++ Build Tools
@@ -97,7 +101,10 @@ After installing the dependencies, try running:
 
 pip install dlib
 
+
 ........................................................................................................................
+
+
 🔹 Alternative: Use Precompiled dlib Wheel (Easier)
 If you don’t want to build from source, use a precompiled .whl file:
 
@@ -110,7 +117,11 @@ Navigate to the downloaded file’s location and install it using:
 
 pip install dlib‑19.24.0‑cp312‑cp312‑win_amd64.whl
 (Adjust the filename based on the downloaded version and Python version.)
+
+
 .......................................................................................................................
+
+
 
 🏗 Step 4: Fix Common Errors
 🔹 If You Named Your Script face_recognition.py or face_detect.py, Rename It!
@@ -132,7 +143,11 @@ python face_recognition_app.py
 or
 
 python detect_faces.py
+
+
 ..........................................................................................
+
+
 
 🔹 Step 2: Check Your Python Script
 If you're running face_recognition_app.py, make sure you are importing the correct module.
