@@ -34,9 +34,12 @@ python -m venv face_recognition_env
 ✅ 4. Activate the Virtual Environment
 
 face_recognition_env\Scripts\activate
+
 ................................................................................................
 After Activating the Virtual environment. Install the required Libraries for the project.
-..........................................................................................................................
+................................................................................................
+
+
 📦 Step 3: Install Required Libraries
 Once the virtual environment is activated, install dependencies:
 
